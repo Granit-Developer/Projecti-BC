@@ -1,0 +1,12 @@
+
+
+**Database Name: orrsphp**
+
+**Developed by Granit Statovci**
+
+
+**Admin Login Details**
+
+Email   : admin@mail
+Password: admin
+
